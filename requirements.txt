@@ -1,3 +1,4 @@
 fastapi[all]==0.88.0
 pydantic==1.10.2
 SQLAlchemy==1.4.45
+fastapi-jwt-auth==0.5.0
